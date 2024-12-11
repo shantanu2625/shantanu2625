@@ -1,4 +1,4 @@
-Hi I'm <h1>Shantanu</h1>
+Hi I'm <h1>Shantanu Bangar</h1>
 
   👀 I’m interested in Fullstack Development and Cloud
   
